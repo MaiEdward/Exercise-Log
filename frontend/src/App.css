@@ -1,0 +1,85 @@
+body {
+  font-family: "Open Sans",sans-serif;
+  font-weight: 800;
+  letter-spacing: .075em;
+  font-size: 16px;
+  background-color: #AEC6CF;
+  color: #b17579;
+  margin: 1px; ;
+  padding: 1px;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-header {
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: black;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+td, th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  color: #b17579;
+}
+
+tr:hover {background-color: #ddd;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #b17579;
+  color: white;
+}
+
+.App-nav a {
+  padding: 0px 20px 5px 20px;
+  background-color: rgb(135, 196, 207);
+  text-decoration: none;
+  border: 1px #ddd;
+  color: #b17579;
+  vertical-align: middle;
+  line-height: 1;
+  font-size: 1.3em;
+  font-weight: bold;
+  border-radius: 3px;
+}
+
+.App-nav a:hover {
+  color: rgb(136, 45, 75);
+  background-color: pink;
+}
+
+.App-link {
+  color: #696969;
+}
+
+footer {
+  padding: 20px;
+}
+
+button {
+  font-family: "Open Sans",sans-serif;
+}
+
+input{
+  font-family: "Open Sans",sans-serif;
+  padding: 8px;
+  margin: 2px;
+}
+
+h2 {
+  font-family: "Open Sans",sans-serif;
+  color: rgb(156, 77, 91);
+}
