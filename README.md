@@ -17,7 +17,7 @@ Application for keeping track of exercises completed.
 
 <h2> Usage Quirks </h2>
 <p>- &nbsp; Loading up exercisees can be slow since render takes a while to pull information from MongoDB database. Please be patient initially loading the site for exercises to pop up.</p>
-<p>- &nbsp; Date completed must be inputted in a specific format mm-dd-yy or else an error will occur. </p>
+<p>- &nbsp; When adding or editing exercises, the date completed field must be inputted in a specific format mm-dd-yy or else an error will occur. </p>
 
 
 
